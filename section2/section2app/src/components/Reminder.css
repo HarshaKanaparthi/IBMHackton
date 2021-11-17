@@ -1,0 +1,37 @@
+.ReminderBG {
+  height: 50%;
+  width: 100%;
+}
+.rem-2ndrow {
+  background-color: #fff5f2;
+  height: 30vh;
+}
+.TIME-selector {
+  border: 3px solid black;
+  margin-left: 8%;
+}
+.totalmed-reminder {
+  margin-left: 20%;
+}
+.addRem {
+  width: 100px;
+  margin-left: 10px;
+}
+.phonerem {
+  height: 300px;
+}
+.totalrem {
+  display: flex;
+  justify-content: center;
+
+  flex-wrap: wrap;
+}
+.tableCheck {
+  text-align: right;
+}
+.tableCheck h2 {
+  font-size: 20px;
+  text-decoration: underline;
+  color: blue;
+  cursor: pointer;
+}

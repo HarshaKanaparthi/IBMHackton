@@ -1,0 +1,62 @@
+.logsign-btn {
+  display: flex;
+}
+.main-top-buttons {
+  width: 200px;
+  height: 60px;
+  margin-right: 30px;
+}
+#getS :hover {
+  background-color: transparent;
+}
+.div2-secondrow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+}
+.div2-secondrow img {
+  height: 150px;
+}
+.breif-app {
+  text-align: center;
+}
+.breif-app {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 10%;
+}
+.div3-thirdrow {
+  margin-top: 5%;
+}
+.div3-thirdrow h1 {
+  padding-bottom: 5%;
+}
+#png-icon {
+  width: 300px;
+  height: 300px;
+}
+.contentBrief-matter {
+  height: 50vh;
+  background-color: lawngreen;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* flex-wrap: wrap; */
+}
+.cen-3div {
+  text-align: center;
+}
+.contentBrief-matter img {
+  margin-top: -10%;
+}
+.text-what-weGive {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-main {
+  background-color: darkgoldenrod;
+  text-align: center;
+  margin-bottom: -3%;
+}

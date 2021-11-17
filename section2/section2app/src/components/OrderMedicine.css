@@ -1,0 +1,18 @@
+.bgmedicine {
+  height: 50%;
+  width: 100%;
+}
+.downMedicine {
+  height: 90vh;
+  background-color: rgba(156, 212, 165, 255);
+}
+.formAction-Medicine {
+  margin-left: 20%;
+  margin-top: 5%;
+}
+.chat-medicine {
+  display: flex;
+}
+.form-adress {
+  margin-left: 30%;
+}

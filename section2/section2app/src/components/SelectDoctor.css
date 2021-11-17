@@ -1,0 +1,27 @@
+.DocTypeBg {
+  height: 50%;
+  width: 100%;
+}
+.doc-1 {
+  height: 150px;
+  width: 350px;
+  background-color: rgb(26, 22, 71);
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+.doctorslist-apollo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.detailslink {
+  padding-top: 0;
+  padding-left: 75%;
+  color: rgb(134, 134, 247);
+  text-decoration: underline;
+}
+.Doc-name {
+  padding-left: 15%;
+  padding-top: 15%;
+  color: white;
+}

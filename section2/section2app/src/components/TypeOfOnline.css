@@ -1,0 +1,13 @@
+.videocalltype,
+.audiocalltype {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.typeOfonlinemodee img {
+  height: 300px;
+}
+.typeOfonlinemodee button {
+  height: 50px;
+  width: 150px;
+}

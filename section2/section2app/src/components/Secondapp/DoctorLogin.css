@@ -1,0 +1,96 @@
+.Docbg {
+  width: 100%;
+}
+.doc-breif {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.noOfpatients,
+.noOfpendingpatients {
+  flex-basis: 300px;
+  background-color: black;
+  height: 300px;
+  margin-top: 5%;
+  text-align: center;
+  color: white;
+  cursor: pointer;
+}
+
+.np {
+  font-size: 155px;
+}
+.doctor-selectionOptions {
+  display: flex;
+  margin-left: 10%;
+  flex-direction: column;
+}
+.patientDetails3,
+.todays-Schedule,
+.on-dutyDoctors {
+  height: 200px;
+  width: 600px;
+  background-color: cadetblue;
+  margin-bottom: 30px;
+  margin-top: 50px;
+}
+.patientDetails3 {
+  background: url(../../images/Patient.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+}
+.todays-Schedule {
+  background: url(../../images/schedule.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+}
+.on-dutyDoctors {
+  background: url(../../images/Appointment-pic.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+}
+.btnDoc {
+  text-align: right;
+  padding-top: 10%;
+  padding-right: 5%;
+}
+
+#BuTTon-enter {
+  height: 60px;
+}
+.totallist {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  color: white;
+}
+.patient-1 {
+  width: 500px;
+  height: 300px;
+  background-color: black;
+  margin-right: 5%;
+  margin-top: 5%;
+  cursor: pointer;
+}
+.personalinfo {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 1%;
+}
+#ha {
+  margin-top: 2%;
+}
+.Button-check {
+  height: 50px;
+  width: 100px;
+  margin-top: 5%;
+  margin-left: 40%;
+}

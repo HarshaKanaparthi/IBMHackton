@@ -1,0 +1,40 @@
+.containersignIn {
+  background-color: rgb(61, 58, 54);
+  color: rgb(231, 175, 175);
+  /* text-align: center; */
+  margin-left: 20%;
+  margin-right: 30%;
+
+  margin-top: 5%;
+
+  height: 500px;
+  width: 55%;
+  display: flex;
+}
+#LogoMedico {
+  height: 200px;
+}
+.MedicologoPlustext {
+  margin-right: 20%;
+  padding-left: 3%;
+  padding-right: 3%;
+  background-color: aqua;
+  padding-top: 20%;
+}
+.completename {
+  display: flex;
+}
+.boxbackground {
+  padding-top: 13%;
+  padding-right: 20%;
+  transform: translateX(-20%);
+}
+.fn {
+  margin-right: 10%;
+}
+#Register {
+  color: white;
+}
+.check-box {
+  padding-left: 5%;
+}

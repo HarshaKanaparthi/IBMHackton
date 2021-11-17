@@ -1,0 +1,45 @@
+.con-onduty {
+  display: flex;
+  height: 150px;
+  width: 500px;
+  /* background-color: rgb(201, 71, 71); */
+  background: #1f1e1e;
+  color: white;
+  /* margin-left: 4%;
+  margin-top: 4%; */
+  /* padding: 2%; */
+}
+.docpic-2 {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  margin-left: 4%;
+  margin-top: 5%;
+  border-radius: 20%;
+}
+.docmatter-2 {
+  margin-top: 9%;
+  padding-left: 4%;
+}
+.cardtag {
+  background-color: #1f1e1e;
+  color: white;
+  width: 600px;
+  cursor: pointer;
+  margin-top: 8%;
+  border-radius: 20px;
+  box-shadow: 0px 3px 6px #ccc;
+  padding: 2%;
+}
+.tp {
+  padding-left: 20%;
+  font-size: 20px;
+}
+.totalList-Doc {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.message_locate {
+  text-align: center;
+}

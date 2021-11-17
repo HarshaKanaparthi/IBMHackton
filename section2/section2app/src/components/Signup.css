@@ -1,0 +1,50 @@
+.signupMedica {
+  height: 88.5vh;
+  background-image: url(../images/signupbg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.container-signup {
+  height: 80%;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: saturate(180%) blur(10px);
+  backdrop-filter: blur(10px);
+}
+@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+  .container-signup {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+  }
+}
+.container-signup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  align-content: center;
+}
+.signupLogo img {
+  height: 300px;
+  /* height: 100px; */
+}
+.form {
+  flex-grow: 2;
+}
+#sign-up-title {
+  color: #fece2f;
+}
+#hv-title {
+  color: #ffefca;
+}
+#condition-text {
+  color: #fece2f;
+  cursor: pointer;
+}
+.check-box {
+  display: flex;
+  justify-content: space-evenly;
+}

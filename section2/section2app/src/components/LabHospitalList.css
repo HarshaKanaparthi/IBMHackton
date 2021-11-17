@@ -1,0 +1,21 @@
+.labinformation {
+  display: flex;
+}
+.labrating {
+  margin-right: 5%;
+}
+.lab-1 {
+  background-color: rgb(31, 24, 24);
+  width: 400px;
+  margin-left: 10%;
+  cursor: pointer;
+  padding-left: 2%;
+  margin-bottom: 5%;
+}
+
+.containerlabList {
+  color: rgb(252, 231, 231);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

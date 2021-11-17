@@ -1,0 +1,20 @@
+.Doctorbg {
+  height: 88.2vh;
+  width: 100%;
+}
+.doctor-loginForm {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-top: 10%;
+}
+.totalDp {
+  height: 60vh;
+  background-color: aqua;
+  margin-top: 6%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.medicologo3 {
+  height: 200px;
+}
